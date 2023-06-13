@@ -57,9 +57,14 @@ img{
     margin-top: -25px;
   }
 
-.flavor, .dessert{
+.flavor{
     text-align: left;
     width: 75%;
+}
+
+.dessert{
+    text-align: left;
+    width: 75%
 }
 
 .price{
